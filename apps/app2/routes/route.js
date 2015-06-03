@@ -5,11 +5,7 @@
 
 'use strict';
 
-
-var bd = require('bd');
-var logger = bd.logger('app2');
-
-module.exports = function (router) {
+module.exports = function (router, logger) {
     router.get('/logid', function*(next) {
         var log = 'app2: ' + this.logid;
         logger.access(log);

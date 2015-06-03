@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bdjs/bd-examples",
   "dependencies": {
-    "bd": "0.0.4"
+    "bd": "0.0.5"
   }
 }
