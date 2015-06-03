@@ -1,0 +1,25 @@
+{
+  "name": "bd-examples",
+  "version": "0.0.0",
+  "description": "bd.js examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdjs/bd-examples.git"
+  },
+  "keywords": [
+    "bd.js"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdjs/bd-examples/issues"
+  },
+  "homepage": "https://github.com/bdjs/bd-examples",
+  "dependencies": {
+    "bd": "0.0.4"
+  }
+}
